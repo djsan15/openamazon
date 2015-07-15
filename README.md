@@ -9,6 +9,11 @@ Current version(0.1) has the following functionality-
 2) Product Search- It will return the MRP(not the selling price), rating, description, no. of reviews and no. of images 	for any product.
 3) Sellers- It will return the list of sellers for any product along with the offered price for each seller.
 
+HOW TO DOWNLOAD
+_______________
+You can install openamazon by using pip or easy_install
+    pip install openamazon
+    easy_install openamazon
 
 HOW IT WORKS
 ____________
