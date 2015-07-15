@@ -12,9 +12,10 @@ Current version(0.1) has the following functionality-
 HOW TO DOWNLOAD
 _______________
 You can install openamazon by using pip or easy_install
-    pip install openamazon
-    easy_install openamazon
-
+```    
+pip install openamazon
+easy_install openamasszon
+```
 HOW IT WORKS
 ____________
 Following is a sample code that describes the usage of this library-
