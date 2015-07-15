@@ -16,7 +16,7 @@ Following is a sample code that describes the usage of this library-
 
    To get the SEARCH RESULTS: 
 ```
-	from openamazon import amazon
+	from openamazon.openamazon import amazon
 	
 	object=amazon()
 	results= object.search("soap")
