@@ -14,7 +14,7 @@ _______________
 You can install openamazon by using pip or easy_install
 ```    
 pip install openamazon
-easy_install openamasszon
+easy_install openamazon
 ```
 HOW IT WORKS
 ____________
