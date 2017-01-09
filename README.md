@@ -1,4 +1,4 @@
-WHAT IT IS
+WHAT IS IT
 __________
 This is a simple python library to crawl data from "Amazon.in"
 
